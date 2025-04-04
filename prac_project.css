@@ -4,3 +4,17 @@
     box-shadow: 0 0 8px gray;
     text-align: center;
 }
+.item-img{
+    width: 18rem;
+}
+.detail-container{
+    width: 22rem;
+    background-color: rgb(157, 61, 61);
+    color: aliceblue;
+    margin-left: 40%;
+    margin-top: 30px;
+    
+}
+.detail-img{
+    width: 22rem;
+}
